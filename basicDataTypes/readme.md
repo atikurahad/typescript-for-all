@@ -106,7 +106,7 @@ data = 100;
 data = true;
 ```
 
-> ⚠️ বেশি `any` ব্যবহার করা ভালো নয়, কারণ এতে TypeScript-এর Type Safety কমে যায়।
+> বেশি `any` ব্যবহার করা ভালো নয়, কারণ এতে TypeScript-এর Type Safety কমে যায়।
 
 ---
 
@@ -210,7 +210,7 @@ status = "success";
 status = "done";
 ```
 
-❌ Error হবে, কারণ `"done"` অনুমোদিত মান নয়।
+ Error হবে, কারণ `"done"` অনুমোদিত মান নয়।
 
 ---
 

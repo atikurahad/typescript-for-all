@@ -1,0 +1,24 @@
+{
+  "name": "typescript-for-all",
+  "version": "1.0.0",
+  "description": "TypeScript guide from beginner to advanced (Bengali / বাংলায়)",
+  "scripts": {
+    "start:01": "ts-node 01_introduction/example.ts",
+    "start:02": "ts-node 02_basic_data_types/example.ts",
+    "start:03": "ts-node 03_functions/example.ts",
+    "start:04": "ts-node 04_object_types/example.ts",
+    "start:05": "ts-node 05_type_vs_interface/example.ts",
+    "start:06": "ts-node 06_union_intersection_literal/example.ts",
+    "start:07": "ts-node 07_enums_and_assertions/example.ts",
+    "start:08": "ts-node 08_type_guards_narrowing/example.ts",
+    "start:09": "ts-node 09_classes_and_oop/example.ts",
+    "start:10": "ts-node 10_generics/example.ts",
+    "start:11": "ts-node 11_advanced_types/example.ts",
+    "start:12": "ts-node 12_utility_types/example.ts",
+    "start:13": "ts-node 13_tsconfig_and_modules/example.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

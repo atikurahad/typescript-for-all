@@ -30,7 +30,7 @@ graph TD
 
 `type` হলো টাইপের একটি নতুন নাম বা Alias তৈরি করার পদ্ধতি। এটি অবজেক্ট ছাড়াও প্রিমিটিভ টাইপ, ইউনিয়ন, এবং টিউপল টাইপ ডিফাইন করতে পারে।
 
-> বিস্তারিত জানতে পড়ুন: **[Type Alias Detail Guide](file:///Users/atikur/typescript-for-all/05_type_vs_interface/type.md)**
+> বিস্তারিত জানতে পড়ুন: **[Type Alias Detail Guide](type.md)**
 
 ### Syntax:
 ```typescript
@@ -46,7 +46,7 @@ type User = {
 
 `interface` হলো মূলত অবজেক্টের স্ট্রাকচার বা আকৃতি (Shape) কেমন হবে তার চুক্তি বা ব্লুপ্রিন্ট।
 
-> বিস্তারিত জানতে পড়ুন: **[Interface Detail Guide](file:///Users/atikur/typescript-for-all/05_type_vs_interface/interface.md)**
+> বিস্তারিত জানতে পড়ুন: **[Interface Detail Guide](interface.md)**
 
 ### Syntax:
 ```typescript

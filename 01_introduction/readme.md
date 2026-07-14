@@ -80,7 +80,7 @@ node hello.js
 
 একটি ডিফল্ট `tsconfig.json` তৈরি করতে রান করুন:
 ```bash
-nsc --init
+tsc --init
 ```
 
 ### গুরুত্বপূর্ণ কনফিগারেশনসমূহ:

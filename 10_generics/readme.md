@@ -107,7 +107,7 @@ function getLength<T extends { length: number }>(item: T): number {
 }
 
 getLength("Hello");     // বৈধ (string-এর length আছে)
-getLength([1, 2, 3]);   // वैध (array-এর length আছে)
+getLength([1, 2, 3]);   // বৈধ (array-এর length আছে)
 // getLength(100);       // Error! number-এর কোনো length প্রপার্টি নেই।
 ```
 
